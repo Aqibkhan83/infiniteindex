@@ -545,14 +545,6 @@ body {
 .main-header h1 {
     text-align: center;
 }
-
-/* nav ul {
-    display: flex;
-    justify-content: center;
-    list-style: none;
-    padding: 0;
-} */
-
 nav ul li {
     margin: 0 15px;
 }
